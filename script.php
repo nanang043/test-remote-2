@@ -8,5 +8,6 @@
 </head>
 <body>
     <h3>test remote 2</h3>
+    <p>contoh paragraf</p>
 </body>
 </html>
